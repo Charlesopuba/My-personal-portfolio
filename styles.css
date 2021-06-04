@@ -64,7 +64,14 @@ nav{
     border: none;
     outline: none;
     color: crimson;
-    background: whitesmoke;
+    background:cyan;
     padding: 10px;
     margin-top: 20px;
+}
+#aboutme{
+    padding: 100px 50px;
+}
+.section{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
 }
