@@ -78,21 +78,26 @@ nav{
 }
 .section h1{
     font-size: 50px;
+    color: yellow;
 }
 .section p{
     font-size: 25px;
     font-weight: 700;
+    color: yellow;
 }
-.Aboutme{
+.about-row{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
 }
-.col1{
+.about-left{
     flex-basis: 50%;
-
 }
-.col1 img{
+.about-left img{
+    width: 100%;
     padding: 50px;
+}
+.about-right{
+    flex-basis: 50%;
 }
