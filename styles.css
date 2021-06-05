@@ -101,3 +101,8 @@ nav{
 .about-right{
     flex-basis: 50%;
 }
+.about-right p{
+    font-size: 20px;
+    text-align: justify;
+    color: yellow;
+}
