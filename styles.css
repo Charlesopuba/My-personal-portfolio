@@ -107,3 +107,14 @@ nav{
     text-align: justify;
     color: yellow;
 }
+#skills{
+    padding: 100px 50px;
+}
+.skillsrow{
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    color: brown;
+    flex-wrap: wrap;
+    align-items: center;
+}
