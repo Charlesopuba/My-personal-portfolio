@@ -81,9 +81,10 @@ nav{
     color: yellow;
 }
 .section p{
-    font-size: 25px;
+    font-size: 18px;
     font-weight: 700;
     color: yellow;
+    
 }
 .about-row{
     display: flex;
