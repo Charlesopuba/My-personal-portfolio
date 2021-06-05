@@ -109,6 +109,7 @@ nav{
 }
 #skills{
     padding: 100px 50px;
+    background:whitesmoke;
 }
 .skillsrow{
     display: flex;
@@ -117,4 +118,13 @@ nav{
     color: brown;
     flex-wrap: wrap;
     align-items: center;
+    
+}
+.skillsleft{
+    flex-basis: 50%;
+    text-align: justify;
+
+}
+.skillsright{
+    flex-basis: 50%;
 }
