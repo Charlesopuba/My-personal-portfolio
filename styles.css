@@ -144,6 +144,7 @@ nav{
     text-align: center;
     box-shadow: 2px 3px 5px gray;
 }
-.servicesbox img{
-    
+.servicesbox:hover{
+    background: crimson;
+    transition: 00.3s;
 }
