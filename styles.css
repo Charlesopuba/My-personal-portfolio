@@ -64,7 +64,7 @@ nav{
     border: none;
     outline: none;
     color: crimson;
-    background:cyan;
+    background:white;
     padding: 10px;
     margin-top: 20px;
 }
@@ -147,4 +147,26 @@ nav{
 .servicesbox:hover{
     background: crimson;
     transition: 00.3s;
+}
+#contactus{
+    padding: 100px 50px;
+}
+.contact{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.sideA{
+    flex-basis: 50%;
+
+}
+.sideB{
+    flex-basis: 50%;
+
+}
+.sideB form{
+    text-align: center;
+}
+.sideB form h2{
+    margin-bottom: 20px;
 }
