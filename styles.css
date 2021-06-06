@@ -169,4 +169,21 @@ nav{
 }
 .sideB form h2{
     margin-bottom: 20px;
+    margin-bottom: 20px;
+}
+.sideB form input{
+    width: 20%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.sideB form textarea{
+    width: 40%;
+    padding: 10px;
+}
+@media screen and(max-width:770px) {
+    header{
+        background: url(images/engineer.jpg);
+        background-size: cover;
+    }
+    
 }
